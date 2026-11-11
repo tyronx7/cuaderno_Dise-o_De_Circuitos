@@ -1,6 +1,6 @@
 
 
-🏠 [Inicio](../../README.md) › 🔌 [Unidad 1](../Unidad1.md) › 📅 [Semana 3](Semana3.md) › 🗺️ Sesión 1
+🏠 [Inicio](README.md) › 🔌 [Unidad 1](Unidad1.md) › 📅 [Semana 3](Semana3.md) › 🗺️ Sesión 1
 
 ---
 
@@ -105,6 +105,6 @@ $$F_{POS}=(A'+B')(B'+D)(C'+D')\quad(\text{3 factores, 6 literales})$$
 
 <div align="center">
 
-⬅️ [📅 Semana 3](Semana3.md) &nbsp;|&nbsp; 🏠 [Índice](../../README.md) &nbsp;|&nbsp; [🌐 Sesión 2](02_Sesion2_Condiciones_Indiferentes_y_NAND_NOR.md) ➡️
+⬅️ [📅 Semana 3](Semana3.md) &nbsp;|&nbsp; 🏠 [Índice](README.md) &nbsp;|&nbsp; [🌐 Sesión 2](02_Sesion2_Condiciones_Indiferentes_y_NAND_NOR.md) ➡️
 
 </div>
