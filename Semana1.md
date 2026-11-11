@@ -1,6 +1,6 @@
 
 
-🏠 [Inicio](../../README.md) › 🔌 [Unidad 1](../Unidad1.md) › 📅 Semana 1
+🏠 [Inicio](README.md) › 🔌 [Unidad 1](Unidad1.md) › 📅 Semana 1
 
 ---
 
@@ -15,7 +15,7 @@
 ## 📂 Contenido
 | Archivo | Descripción |
 | :--- | :--- |
-| [01_Teoria_Sistemas_Codigos_y_Compuertas.md](./01_Teoria_Sistemas_Codigos_y_Compuertas.md) | Niveles lógicos, bases, complemento a dos, códigos, compuertas, datasheets |
+| [01_Teoria_Sistemas_Codigos_y_Compuertas.md](01_Teoria_Sistemas_Codigos_y_Compuertas.md) | Niveles lógicos, bases, complemento a dos, códigos, compuertas, datasheets |
 
 ## 📝 Resumen en 6 líneas
 1. `0` y `1` son **rangos** de voltaje; entre ellos hay una zona indefinida.
@@ -29,6 +29,6 @@
 
 <div align="center">
 
-⬅️ [🔌 Unidad 1](../Unidad1.md) &nbsp;|&nbsp; 🏠 [Índice](../../README.md) &nbsp;|&nbsp; [📖 Teoría](01_Teoria_Sistemas_Codigos_y_Compuertas.md) ➡️
+⬅️ [🔌 Unidad 1](Unidad1.md) &nbsp;|&nbsp; 🏠 [Índice](README.md) &nbsp;|&nbsp; [📖 Teoría](01_Teoria_Sistemas_Codigos_y_Compuertas.md) ➡️
 
 </div>
