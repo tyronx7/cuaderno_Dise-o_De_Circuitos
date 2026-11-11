@@ -15,7 +15,7 @@
 
 | Campo | Detalle |
 | :--- | :--- |
-| 👤 **Autor / Estudiante** | Tyrone Encarnación |
+| 👤 **Autor / Estudiante** | Tyrone Efren Encarnación Erique |
 | 🏛️ **Institución** | Universidad Nacional de Loja (UNL) |
 | 🎓 **Carrera** | Computación — 2.º Ciclo "A" |
 | 📚 **Asignatura** | Diseño de Circuitos |
