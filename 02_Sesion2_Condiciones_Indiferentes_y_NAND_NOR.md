@@ -1,5 +1,5 @@
 
-🏠 [Inicio](../../README.md) › 🔌 [Unidad 1](../Unidad1.md) › 📅 [Semana 3](Semana3.md) › 🌐 Sesión 2
+🏠 [Inicio](README.md) › 🔌 [Unidad 1](Unidad1.md) › 📅 [Semana 3](Semana3.md) › 🌐 Sesión 2
 
 ---
 
@@ -79,6 +79,6 @@ $$F=((A'C'+BC)')'=\big((A'C')'\cdot(BC)'\big)'$$
 
 <div align="center">
 
-⬅️ [🗺️ Sesión 1](01_Sesion1_Mapas_de_Karnaugh_SOP_POS.md) &nbsp;|&nbsp; 🏠 [Índice](../../README.md) &nbsp;|&nbsp; [📅 Semana 4](../SEMANA%204/Semana4.md) ➡️
+⬅️ [🗺️ Sesión 1](01_Sesion1_Mapas_de_Karnaugh_SOP_POS.md) &nbsp;|&nbsp; 🏠 [Índice](README.md) &nbsp;|&nbsp; [📅 Semana 4](SEMANA%204/Semana4.md) ➡️
 
 </div>
