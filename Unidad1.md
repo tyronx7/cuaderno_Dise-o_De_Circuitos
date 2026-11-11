@@ -16,15 +16,9 @@
 | [3](Semana3.md) | Mapas de Karnaugh, don't care y universalidad NAND/NOR | 2 sesiones · Proyecto integrador |
 | [4](Semana4.md) | Circuitos aritméticos, comparador y ALU | Teoría · Taller práctico |
 
-## 🧵 Hilo conductor
+## 🧵 Mapa de contenidos de la unidad 1
+<img width="975" height="227" alt="image" src="https://github.com/user-attachments/assets/37f3c6f5-5dbf-4b8b-b5c5-84f7ef46278c" />
 
-```text
-Sistemas numéricos ─► Compuertas ─► Álgebra de Boole ─► Canónicas (Σm / ΠM)
-        (S1)             (S1)            (S2)                 (S2)
-                                                                │
-        ALU ◄─ Aritméticos ◄─ NAND/NOR ◄─ Don't care ◄─ Karnaugh ◄┘
-        (S4)      (S4)          (S3)         (S3)         (S3)
-```
 
 ## 🏅 Competencias integradas de la unidad
 1. Convertir entre bases y representar enteros con signo (complemento a dos).
