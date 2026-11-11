@@ -1,5 +1,5 @@
 
-🏠 [Inicio](../README.md) › 🔌 Unidad 1
+🏠 [Inicio](README.md) › 🔌 Unidad 1
 
 ---
 
@@ -11,10 +11,10 @@
 
 | Semana | Tema central | Archivos |
 | :---: | :--- | :--- |
-| [1](./SEMANA%201/Semana1.md) | Sistemas numéricos, códigos y compuertas lógicas | Teoría · Talleres |
-| [2](./SEMANA%202/Semana2.md) | Álgebra de Boole y formas canónicas (SOP/POS) | Teoría · Caso alarma y talleres |
-| [3](./SEMANA%203/Semana3.md) | Mapas de Karnaugh, don't care y universalidad NAND/NOR | 2 sesiones · Proyecto integrador |
-| [4](./SEMANA%204/Semana4.md) | Circuitos aritméticos, comparador y ALU | Teoría · Taller práctico |
+| [1](Semana1.md) | Sistemas numéricos, códigos y compuertas lógicas | Teoría · Talleres |
+| [2](Semana2.md) | Álgebra de Boole y formas canónicas (SOP/POS) | Teoría · Caso alarma y talleres |
+| [3](Semana3.md) | Mapas de Karnaugh, don't care y universalidad NAND/NOR | 2 sesiones · Proyecto integrador |
+| [4](Semana4.md) | Circuitos aritméticos, comparador y ALU | Teoría · Taller práctico |
 
 ## 🧵 Hilo conductor
 
@@ -40,6 +40,6 @@ Sistemas numéricos ─► Compuertas ─► Álgebra de Boole ─► Canónicas
 
 <div align="center">
 
-⬅️ [📘 Inicio](../README.md) &nbsp;|&nbsp; 🏠 [Índice](../README.md) &nbsp;|&nbsp; [📅 Semana 1](SEMANA%201/Semana1.md) ➡️
+⬅️ [📘 Inicio](README.md) &nbsp;|&nbsp; 🏠 [Índice](README.md) &nbsp;|&nbsp; [📅 Semana 1](Semana1.md) ➡️
 
 </div>
