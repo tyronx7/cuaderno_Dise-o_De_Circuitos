@@ -1,4 +1,4 @@
-<p align="center"><img src="../../assets/logo_unl.png" alt="Universidad Nacional de Loja" width="280"></p>
+
 
 🏠 [Inicio](../../README.md) › 🔌 [Unidad 1](../Unidad1.md) › 📅 Semana 3
 
