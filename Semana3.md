@@ -1,6 +1,6 @@
 
 
-🏠 [Inicio](../../README.md) › 🔌 [Unidad 1](../Unidad1.md) › 📅 Semana 3
+🏠 [Inicio](README.md) › 🔌 [Unidad 1](Unidad1.md) › 📅 Semana 3
 
 ---
 
@@ -9,8 +9,8 @@
 ## 📂 Contenido
 | Archivo | Descripción |
 | :--- | :--- |
-| [01_Sesion1_Mapas_de_Karnaugh_SOP_POS.md](./01_Sesion1_Mapas_de_Karnaugh_SOP_POS.md) | K-maps de 3 y 4 variables, reglas de agrupación, implicantes, SOP y POS mínimas |
-| [02_Sesion2_Condiciones_Indiferentes_y_NAND_NOR.md](./02_Sesion2_Condiciones_Indiferentes_y_NAND_NOR.md) | Don't care, universalidad, conversión a NAND-NAND |
+| [01_Sesion1_Mapas_de_Karnaugh_SOP_POS.md](01_Sesion1_Mapas_de_Karnaugh_SOP_POS.md) | K-maps de 3 y 4 variables, reglas de agrupación, implicantes, SOP y POS mínimas |
+| [02_Sesion2_Condiciones_Indiferentes_y_NAND_NOR.md](02_Sesion2_Condiciones_Indiferentes_y_NAND_NOR.md) | Don't care, universalidad, conversión a NAND-NAND |
 
 ## 📝 Resumen
 - **Adyacencia:** $XY+XY'=X$; el mapa la vuelve visual gracias al código Gray.
@@ -23,6 +23,6 @@
 
 <div align="center">
 
-⬅️ [📖 Teoría](../SEMANA%202/01_Teoria_Algebra_Boole_y_Formas_Canonicas.md) &nbsp;|&nbsp; 🏠 [Índice](../../README.md) &nbsp;|&nbsp; [🗺️ Sesión 1](01_Sesion1_Mapas_de_Karnaugh_SOP_POS.md) ➡️
+⬅️ [📖 Teoría](01_Teoria_Algebra_Boole_y_Formas_Canonicas.md) &nbsp;|&nbsp; 🏠 [Índice](README.md) &nbsp;|&nbsp; [🗺️ Sesión 1](01_Sesion1_Mapas_de_Karnaugh_SOP_POS.md) ➡️
 
 </div>
