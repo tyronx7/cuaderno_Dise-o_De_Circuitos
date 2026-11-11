@@ -1,6 +1,6 @@
 
 
-🏠 [Inicio](../../README.md) › 🔌 [Unidad 1](../Unidad1.md) › 📅 [Semana 2](Semana2.md) › 📖 Teoría
+🏠 [Inicio](README.md) › 🔌 [Unidad 1](Unidad1.md) › 📅 [Semana 2](Semana2.md) › 📖 Teoría
 
 ---
 
@@ -120,6 +120,6 @@ Los índices de $\prod M$ son exactamente los que **faltan** en $\sum m$.
 
 <div align="center">
 
-⬅️ [📅 Semana 2](Semana2.md) &nbsp;|&nbsp; 🏠 [Índice](../../README.md) &nbsp;|&nbsp; [📅 Semana 3](../SEMANA%203/Semana3.md) ➡️
+⬅️ [📅 Semana 2](Semana2.md) &nbsp;|&nbsp; 🏠 [Índice](README.md) &nbsp;|&nbsp; [📅 Semana 3](Semana3.md) ➡️
 
 </div>
