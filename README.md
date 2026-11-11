@@ -1,0 +1,60 @@
+<p align="center"><img src="assets/logo_unl.png" alt="Universidad Nacional de Loja" width="280"></p>
+
+🏠 **Inicio**
+
+---
+
+# 📘 Libro de Síntesis de Contenidos — Diseño de Circuitos
+
+## 🪪 Datos del proyecto
+
+| Campo | Detalle |
+| :--- | :--- |
+| 👤 **Autor / Estudiante** | Tyrone Encarnación |
+| 🏛️ **Institución** | Universidad Nacional de Loja (UNL) |
+| 🎓 **Carrera** | Computación — 2.º Ciclo "A" |
+| 📚 **Asignatura** | Diseño de Circuitos |
+| 👨‍🏫 **Docente** | Ing. Luis Darío Sinche Cueva, Mg. |
+| 🗓️ **Período académico** | Septiembre 2026 – Marzo 2027 |
+
+## 🧭 Estructura del libro
+
+| Unidad | Tema | Estado |
+| :--- | :--- | :---: |
+| 🔌 [Unidad 1](./UNIDAD%201/Unidad1.md) | Análisis de lógica combinacional con diseño clásico (Semanas 1–4) | ✅ Completa |
+| 🔁 Unidad 2 | Por definir | ⏳ PENDIENTE |
+| 🖥️ Unidad 3 | Por definir | ⏳ PENDIENTE |
+
+## 📅 Acceso rápido a la Unidad 1
+
+| Semana | Tema | Teoría |
+| :---: | :--- | :--- |
+| 1️⃣ [Semana 1](./UNIDAD%201/SEMANA%201/Semana1.md) | Sistemas numéricos, códigos y compuertas | [📖 Teoría](./UNIDAD%201/SEMANA%201/01_Teoria_Sistemas_Codigos_y_Compuertas.md) |
+| 2️⃣ [Semana 2](./UNIDAD%201/SEMANA%202/Semana2.md) | Álgebra de Boole y formas canónicas | [📖 Teoría](./UNIDAD%201/SEMANA%202/01_Teoria_Algebra_Boole_y_Formas_Canonicas.md) |
+| 3️⃣ [Semana 3](./UNIDAD%201/SEMANA%203/Semana3.md) | Karnaugh, don't care y NAND/NOR | [🗺️ Sesión 1](./UNIDAD%201/SEMANA%203/01_Sesion1_Mapas_de_Karnaugh_SOP_POS.md) · [🌐 Sesión 2](./UNIDAD%201/SEMANA%203/02_Sesion2_Condiciones_Indiferentes_y_NAND_NOR.md) |
+| 4️⃣ [Semana 4](./UNIDAD%201/SEMANA%204/Semana4.md) | Circuitos aritméticos, resta y overflow | [📖 Teoría](./UNIDAD%201/SEMANA%204/01_Teoria_Circuitos_Aritmeticos_Resta_y_Overflow.md) |
+
+## 📖 Cómo usar este libro
+1. Empieza por el archivo índice de cada unidad (`Unidad1.md`) y semana (`Semana1.md`, `Semana2.md`…): objetivos, mapa de contenidos y resumen.
+2. Cada archivo tiene **barra de navegación** arriba (migas de pan) y abajo (anterior / índice / siguiente).
+3. Las fórmulas usan LaTeX (`$...$`); se ven bien en GitHub, VS Code, Obsidian y Typora.
+
+## 🔤 Convenciones de notación
+
+| Símbolo | Significado |
+| :---: | :--- |
+| $A'$ | Complemento (NOT) de $A$ |
+| $A\cdot B$ / $AB$ | AND |
+| $A+B$ | OR |
+| $A\oplus B$ | XOR |
+| $m_i$ / $M_i$ | Minitérmino / Maxitérmino de índice $i$ |
+| $\sum m(\dots)$ / $\prod M(\dots)$ | Forma canónica SOP / POS |
+| `X` / $d(\dots)$ | Condición indiferente (*don't care*) |
+
+---
+
+<div align="center">
+
+🏠 Índice &nbsp;|&nbsp; [🔌 Unidad 1](UNIDAD%201/Unidad1.md) ➡️
+
+</div>
