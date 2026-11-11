@@ -1,6 +1,6 @@
 
 
-🏠 [Inicio](../../README.md) › 🔌 [Unidad 1](../Unidad1.md) › 📅 [Semana 4](Semana4.md) › 📖 Teoría
+🏠 [Inicio](README.md) › 🔌 [Unidad 1](Unidad1.md) › 📅 [Semana 4](Semana4.md) › 📖 Teoría
 
 ---
 
@@ -145,6 +145,6 @@ $S_3S_2S_1S_0=1000_2$:
 
 <div align="center">
 
-⬅️ [📅 Semana 4](Semana4.md) &nbsp;|&nbsp; 🏠 [Índice](../../README.md)
+⬅️ [📅 Semana 4](Semana4.md) &nbsp;|&nbsp; 🏠 [Índice](README.md)
 
 </div>
