@@ -1,6 +1,6 @@
 
 
-🏠 [Inicio](../../README.md) › 🔌 [Unidad 1](../Unidad1.md) › 📅 Semana 4
+🏠 [Inicio](README.md) › 🔌 [Unidad 1](Unidad1.md) › 📅 Semana 4
 
 ---
 
@@ -11,7 +11,7 @@
 ## 📂 Contenido
 | Archivo | Descripción |
 | :--- | :--- |
-| [01_Teoria_Circuitos_Aritmeticos_Resta_y_Overflow.md](./01_Teoria_Circuitos_Aritmeticos_Resta_y_Overflow.md) | Semisumador, sumador completo, ripple-carry, resta con XOR, overflow |
+| [01_Teoria_Circuitos_Aritmeticos_Resta_y_Overflow.md](01_Teoria_Circuitos_Aritmeticos_Resta_y_Overflow.md) | Semisumador, sumador completo, ripple-carry, resta con XOR, overflow |
 
 ## 📝 Resumen
 - $S$ = bit que se escribe; $C$ = acarreo.
@@ -25,6 +25,6 @@
 
 <div align="center">
 
-⬅️ [🌐 Sesión 2](../SEMANA%203/02_Sesion2_Condiciones_Indiferentes_y_NAND_NOR.md) &nbsp;|&nbsp; 🏠 [Índice](../../README.md) &nbsp;|&nbsp; [📖 Teoría](01_Teoria_Circuitos_Aritmeticos_Resta_y_Overflow.md) ➡️
+⬅️ [🌐 Sesión 2](SEMANA%203/02_Sesion2_Condiciones_Indiferentes_y_NAND_NOR.md) &nbsp;|&nbsp; 🏠 [Índice](README.md) &nbsp;|&nbsp; [📖 Teoría](01_Teoria_Circuitos_Aritmeticos_Resta_y_Overflow.md) ➡️
 
 </div>
