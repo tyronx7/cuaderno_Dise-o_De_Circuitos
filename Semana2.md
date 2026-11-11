@@ -1,6 +1,6 @@
 
 
-🏠 [Inicio](../../README.md) › 🔌 [Unidad 1](../Unidad1.md) › 📅 Semana 2
+🏠 [Inicio](README.md) › 🔌 [Unidad 1](Unidad1.md) › 📅 Semana 2
 
 ---
 
@@ -18,7 +18,7 @@
 ## 📂 Contenido
 | Archivo | Descripción |
 | :--- | :--- |
-| [01_Teoria_Algebra_Boole_y_Formas_Canonicas.md](./01_Teoria_Algebra_Boole_y_Formas_Canonicas.md) | Circuito↔expresión, postulados, teoremas, De Morgan, minitérminos/maxitérminos, SOP/POS |
+| [01_Teoria_Algebra_Boole_y_Formas_Canonicas.md](01_Teoria_Algebra_Boole_y_Formas_Canonicas.md) | Circuito↔expresión, postulados, teoremas, De Morgan, minitérminos/maxitérminos, SOP/POS |
 
 ## 📝 Resumen
 - *Circuito = expresión:* lo que simplificas en papel lo ahorras en hardware.
@@ -30,6 +30,6 @@
 
 <div align="center">
 
-⬅️ [📖 Teoría](../SEMANA%201/01_Teoria_Sistemas_Codigos_y_Compuertas.md) &nbsp;|&nbsp; 🏠 [Índice](../../README.md) &nbsp;|&nbsp; [📖 Teoría](01_Teoria_Algebra_Boole_y_Formas_Canonicas.md) ➡️
+⬅️ [📖 Teoría](01_Teoria_Sistemas_Codigos_y_Compuertas.md) &nbsp;|&nbsp; 🏠 [Índice](README.md) &nbsp;|&nbsp; [📖 Teoría](01_Teoria_Algebra_Boole_y_Formas_Canonicas.md) ➡️
 
 </div>
