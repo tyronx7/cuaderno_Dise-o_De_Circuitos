@@ -39,7 +39,25 @@
 | 3️⃣ [Semana 3](Semana3.md) | Karnaugh, don't care y NAND/NOR | [🗺️ Sesión 1](01_Sesion1_Mapas_de_Karnaugh_SOP_POS.md) · [🌐 Sesión 2](02_Sesion2_Condiciones_Indiferentes_y_NAND_NOR.md) |
 | 4️⃣ [Semana 4](Semana4.md) | Circuitos aritméticos, resta y overflow | [📖 Teoría](01_Teoria_Circuitos_Aritmeticos_Resta_y_Overflow.md) |
 
+### Herramienta utilizada
+Claude
 
+### Para qué se usó
+- **Organizar y redactar** en formato Markdown los contenidos de las semanas, a partir de apuntes propios, definiciones, y diapositivas.
+- **Reescribir** el contenido con un lenguaje más claro y estructurarlo en tablas.
+- **Armar** el índice del repositorio,.
+
+### Nota
+- La teoría, las definiciones, los ejemplos y las imágenes provienen del material oficial de la asignatura y apuntes propios.
+
+---
+
+## Bibliografía
+
+- Carpinelli (2023). Texto base de la asignatura: apartados de álgebra de Boole, mapas de Karnaugh, indiferentes y circuitos aritméticos combinacionales.
+- Garza, J. Á. (2025). *Electrónica digital I: álgebra de Boole, De Morgan y formas canónicas.*
+
+---
 
 ---
 
