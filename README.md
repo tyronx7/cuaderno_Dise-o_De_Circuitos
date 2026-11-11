@@ -39,6 +39,8 @@
 | 3️⃣ [Semana 3](Semana3.md) | Karnaugh, don't care y NAND/NOR | [🗺️ Sesión 1](01_Sesion1_Mapas_de_Karnaugh_SOP_POS.md) · [🌐 Sesión 2](02_Sesion2_Condiciones_Indiferentes_y_NAND_NOR.md) |
 | 4️⃣ [Semana 4](Semana4.md) | Circuitos aritméticos, resta y overflow | [📖 Teoría](01_Teoria_Circuitos_Aritmeticos_Resta_y_Overflow.md) |
 
+
+# 👤 Declaración De IA
 ### Herramienta utilizada
 Claude
 
