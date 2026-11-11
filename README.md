@@ -26,7 +26,7 @@
 
 | Unidad | Tema | Estado |
 | :--- | :--- | :---: |
-| 🔌 [Unidad 1](./UNIDAD%201/Unidad1.md) | Análisis de lógica combinacional con diseño clásico (Semanas 1–4) | ✅ Completa |
+| 🔌 [Unidad 1](Unidad1.md) | Análisis de lógica combinacional con diseño clásico (Semanas 1–4) | ✅ Completa |
 | 🔁 Unidad 2 | Por definir | ⏳ PENDIENTE |
 | 🖥️ Unidad 3 | Por definir | ⏳ PENDIENTE |
 
@@ -34,7 +34,7 @@
 
 | Semana | Tema | Teoría |
 | :---: | :--- | :--- |
-| 1️⃣ [Semana 1](Semana1.md) | Sistemas numéricos, códigos y compuertas | [📖 Teoría](./UNIDAD%201/SEMANA%201/01_Teoria_Sistemas_Codigos_y_Compuertas.md) |
+| 1️⃣ [Semana 1](Semana1.md) | Sistemas numéricos, códigos y compuertas | [📖 Teoría](01_Teoria_Sistemas_Codigos_y_Compuertas.md) |
 | 2️⃣ [Semana 2](Semana2.md) | Álgebra de Boole y formas canónicas | [📖 Teoría](01_Teoria_Algebra_Boole_y_Formas_Canonicas.md) |
 | 3️⃣ [Semana 3](Semana3.md) | Karnaugh, don't care y NAND/NOR | [🗺️ Sesión 1](01_Sesion1_Mapas_de_Karnaugh_SOP_POS.md) · [🌐 Sesión 2](02_Sesion2_Condiciones_Indiferentes_y_NAND_NOR.md) |
 | 4️⃣ [Semana 4](Semana4.md) | Circuitos aritméticos, resta y overflow | [📖 Teoría](01_Teoria_Circuitos_Aritmeticos_Resta_y_Overflow.md) |
