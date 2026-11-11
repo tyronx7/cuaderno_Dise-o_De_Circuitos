@@ -1,6 +1,6 @@
 
 
-🏠 [Inicio](../../README.md) › 🔌 [Unidad 1](../Unidad1.md) › 📅 [Semana 1](Semana1.md) › 📖 Teoría
+🏠 [Inicio](README.md) › 🔌 [Unidad 1](Unidad1.md) › 📅 [Semana 1](Semana1.md) › 📖 Teoría
 
 ---
 
@@ -235,6 +235,6 @@ La «A» se guarda como $65=01000001_2$.
 
 <div align="center">
 
-⬅️ [📅 Semana 1](Semana1.md) &nbsp;|&nbsp; 🏠 [Índice](../../README.md) &nbsp;|&nbsp; [📅 Semana 2](../SEMANA%202/Semana2.md) ➡️
+⬅️ [📅 Semana 1](Semana1.md) &nbsp;|&nbsp; 🏠 [Índice](README.md) &nbsp;|&nbsp; [📅 Semana 2](Semana2.md) ➡️
 
 </div>
